@@ -7,7 +7,7 @@ use App\Controller\AppController;
 class UsersController extends AppController{
 
     public function index(){
-
+        echo"teste";
        // $usuario = "cesar";
        // $teste = "gabriel";
         //$this -> set(['usuarios' => $usuario, 'teste' => $teste ]);
